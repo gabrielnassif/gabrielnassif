@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Gabriel Nassif, tenho 27 anos. Me formei em Produção de Multimídia em 2020 que foi onde conheci a área da tecnologia. Logo comecei a fazer cursos paralelos e me aprofundar sobre programação para me tornar um desenvolvedor, que sou apaixonado por essa área hoje. Tenho alguns projetos pessoais que desenvolvi para aprendizado e conhecimento e estão em meu portifólio.
+Me chamo Gabriel Nassif, tenho 27 anos. Me formei em Produção de Multimídia em 2020 que foi onde conheci a área da tecnologia. Logo comecei a fazer cursos paralelos e me aprofundar sobre programação para me tornar um desenvolvedor, que sou apaixonado por essa área hoje. Tenho alguns projetos pessoais que desenvolvi para aprendizado e conhecimento e estão em meu portifólio. Pretendo continuar me aprimorando nas linguagens para me tornar um desenvolvedor Full Stack.
 
 ---
 
@@ -68,25 +68,6 @@ Me chamo Gabriel Nassif, tenho 27 anos. Me formei em Produção de Multimídia e
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielnassif&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnassif&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
 <!--
