@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Gabriel Nassif, tenho 27 anos e sou natural de São Paulo. Me formei em Produção de Multimídia em 2020 que foi onde conheci a área da tecnologia. Logo comecei a fazer cursos paralelos e me aprofundar sobre programação para me tornar um desenvolvedor, que sou apaixonado por essa área hoje. Tenho alguns projetos pessoais que desenvolvi para aprendizado e conhecimento e estão em meu portifólio.
+Me chamo Gabriel Nassif, tenho 27 anos. Me formei em Produção de Multimídia em 2020 que foi onde conheci a área da tecnologia. Logo comecei a fazer cursos paralelos e me aprofundar sobre programação para me tornar um desenvolvedor, que sou apaixonado por essa área hoje. Tenho alguns projetos pessoais que desenvolvi para aprendizado e conhecimento e estão em meu portifólio.
 
 ---
 
